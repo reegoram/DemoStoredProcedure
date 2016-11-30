@@ -1,0 +1,11 @@
+C:\Users\reego\documents\visual studio 2017\Projects\DemoStoredProcedure\DemoStoredProcedure\bin\Debug\DemoStoredProcedure.exe.config
+C:\Users\reego\documents\visual studio 2017\Projects\DemoStoredProcedure\DemoStoredProcedure\bin\Debug\DemoStoredProcedure.exe
+C:\Users\reego\documents\visual studio 2017\Projects\DemoStoredProcedure\DemoStoredProcedure\bin\Debug\DemoStoredProcedure.pdb
+C:\Users\reego\documents\visual studio 2017\Projects\DemoStoredProcedure\DemoStoredProcedure\bin\Debug\MySql.Data.dll
+C:\Users\reego\documents\visual studio 2017\Projects\DemoStoredProcedure\DemoStoredProcedure\bin\Debug\MySql.Data.xml
+C:\Users\reego\documents\visual studio 2017\Projects\DemoStoredProcedure\DemoStoredProcedure\obj\Debug\DemoStoredProcedure.csprojResolveAssemblyReference.cache
+C:\Users\reego\documents\visual studio 2017\Projects\DemoStoredProcedure\DemoStoredProcedure\obj\Debug\DemoStoredProcedure.Form1.resources
+C:\Users\reego\documents\visual studio 2017\Projects\DemoStoredProcedure\DemoStoredProcedure\obj\Debug\DemoStoredProcedure.Properties.Resources.resources
+C:\Users\reego\documents\visual studio 2017\Projects\DemoStoredProcedure\DemoStoredProcedure\obj\Debug\DemoStoredProcedure.csproj.GenerateResource.Cache
+C:\Users\reego\documents\visual studio 2017\Projects\DemoStoredProcedure\DemoStoredProcedure\obj\Debug\DemoStoredProcedure.exe
+C:\Users\reego\documents\visual studio 2017\Projects\DemoStoredProcedure\DemoStoredProcedure\obj\Debug\DemoStoredProcedure.pdb
